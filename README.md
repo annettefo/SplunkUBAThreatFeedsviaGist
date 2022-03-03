@@ -41,4 +41,4 @@ Manage -> Data Sources -> New Data Source -> UBA Threat Feed
 8. Once it is done processing, the results will be available under Manage -> Black/White lists
 7. <img width="1509" alt="Screen Shot 2022-03-03 at 12 10 52 PM" src="https://user-images.githubusercontent.com/20345440/156644916-62336fe8-7b66-4757-9dfd-2089530183c2.png">
 
-For troubleshooting, refer to /var/log/caspida/GetExternalFeeds.log
+For troubleshooting, refer to GetExternalFeeds.log
