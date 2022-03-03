@@ -23,7 +23,7 @@ Add a domain or IP address to a deny list to generate anomalies whenever a user 
 Reference: https://docs.splunk.com/Documentation/UBA/5.0.5.1/GetDataIn/ConfigureAllowDenyLists
 
 ### Instructions on how to add new entries to a deny list with gist
-** These instructions are used for demo purposes only and uses a public gist. 
+** These instructions are used for demo purposes only and uses a public gist. Tested and validated in Splunk UBA 5.0.5.1 version. 
 
 1. Create a Gist: Github -> Navigate to gist home page -> Create a public gist 
 2. Create two files: 
